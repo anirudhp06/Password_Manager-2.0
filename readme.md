@@ -1,6 +1,6 @@
 # Password Manager 2.0
 
-This is the entire new version of the [Password manager]("https://github.com/anirudhp06/Password_Manager")
+This is the entire new version of the [Password manager](https://github.com/anirudhp06/Password_Manager)
 
 The entire working of manger is changed now.
 
@@ -16,10 +16,10 @@ Everything works the same but the only thing that is changed is instead of passw
 # Requirements:
 1. MySQL
     - If you are on latest version of Windows 10 u can use the command to download the installer,
-     `winget install mysql` or you can also download the community verision from [here]("https://dev.mysql.com/downloads/installer/")
+     `winget install mysql` or you can also download the community verision from [here](https://dev.mysql.com/downloads/installer/)
     
 2. Python(3.6+)
-    - You can download python from [windows store]("https://www.microsoft.com/en-in/p/python-39/9p7qfqmjrfp7") or from their [website]("https://www.python.org/downloads/")
+    - You can download python from [windows store](https://www.microsoft.com/en-in/p/python-39/9p7qfqmjrfp7) or from their [website](https://www.python.org/downloads/)
 
 
 3. `mysql.connector` module
